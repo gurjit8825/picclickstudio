@@ -3,7 +3,7 @@ title: home
 banner:
   actions: []
   subtitle: We are here to click your life journey
-  title: Pic Click Studio
+  title: Pic Click Studios
 sections:
   - component: features.html
     features:
