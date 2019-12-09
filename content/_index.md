@@ -47,13 +47,7 @@ sections:
         url: /contact
     component: cta.html
     section_id: cta
-    text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
+    text: "We would like to start it as a new\r venture. Having our own business means you get to be our own boss. we love the world of\r professional photography and we have dreams of owning our own photo studio. This could be\r a worthful business for us."
     title: What we are?
     type: cta
   - component: posts.html
