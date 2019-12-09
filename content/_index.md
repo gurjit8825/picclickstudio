@@ -54,7 +54,7 @@ sections:
       libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
       laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
       lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+    title: What we are?
     type: cta
   - component: posts.html
     section_id: posts
