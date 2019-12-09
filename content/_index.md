@@ -3,7 +3,7 @@ title: home
 banner:
   actions: []
   subtitle: |-
-    ![](/images/banner.png)
+    ![]()
 
     We are here to click your life journey
   title: Pic Click Studio
