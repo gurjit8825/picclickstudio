@@ -1,12 +1,7 @@
 ---
 title: home
 banner:
-  actions:
-    - is_huge: true
-      is_primary: false
-      is_scrolly: false
-      label: Learn More
-      url: /no-sidebar
+  actions: []
   subtitle: We are here to click your life journey
   title: Pic Click Studio
 sections:
