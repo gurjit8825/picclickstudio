@@ -7,7 +7,7 @@ banner:
       is_scrolly: false
       label: Learn More
       url: /no-sidebar
-  subtitle: Sed magna in pharetra ultricies dolor sit consequat magna.
+  subtitle: We are here to click your life journey
   title: Pic Click Studio
 sections:
   - component: features.html
