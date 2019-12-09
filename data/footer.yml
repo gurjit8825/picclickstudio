@@ -25,5 +25,5 @@ contact_methods:
       type: contact_with_link
       url: '#'
 copyright:
-  enabled: true
+  enabled: false
   text: '&copy; Untitled. All rights reserved.'
