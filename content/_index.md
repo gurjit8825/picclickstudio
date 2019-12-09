@@ -35,11 +35,7 @@ sections:
         title: Discounts per year
     section_id: features
     type: features
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: How it works
-        url: /contact
+  - actions: []
     component: cta.html
     section_id: cta
     text: "We would like to start it as a new\r venture. Having our own business means you get to be our own boss. we love the world of\r professional photography and we have dreams of owning our own photo studio. This could be\r a worthful business for us."
