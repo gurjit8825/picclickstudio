@@ -50,11 +50,6 @@ sections:
     text: "We would like to start it as a new\r venture. Having our own business means you get to be our own boss. we love the world of\r professional photography and we have dreams of owning our own photo studio. This could be\r a worthful business for us."
     title: What we are?
     type: cta
-  - component: posts.html
-    section_id: posts
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-    title: Convallis amet interdum
-    type: posts
 menu:
   main:
     name: Home
