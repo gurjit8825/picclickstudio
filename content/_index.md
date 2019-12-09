@@ -13,15 +13,13 @@ sections:
   - component: features.html
     features:
       - description: >-
-          Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
-          Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
-          ipsum interdum sed tempus sagittis lorem feugiat. In fringilla diet
-          consectetur. Morbi libero orci, consectetur in odio maximus felis.
+          We are focusing  on providing pictures with high standard of quality
+          in order to represent the artistic angle of our professional team.
         icon:
           enabled: true
           icon: fa-area-chart
           style: style1
-        title: Integer vitae consequat sed magna feugiat
+        title: High Standard of quality
       - description: >-
           Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus.
           Phasellus lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem
