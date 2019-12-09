@@ -6,16 +6,7 @@ about:
 contact_methods:
   enabled: true
   methods_col1: []
-  methods_col2:
-    - icon: fa-phone
-      text: (705) 450-0678
-      title: Phone
-      type: contact_with_text
-    - icon: fa-envelope-o
-      text: gur19063953@gmail.com
-      title: Email
-      type: contact_with_link
-      url: '#'
+  methods_col2: []
 copyright:
   enabled: true
   text: '&copy; Untitled. All rights reserved.'
