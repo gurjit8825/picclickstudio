@@ -5,15 +5,7 @@ about:
   title: How to Contact with Us
 contact_methods:
   enabled: true
-  methods_col1:
-    - icon: fa-map-marker
-      text: |-
-        Sault College
-        Northern Ave.
-        Sault Ste. Marie,Ontario
-        Canada
-      title: Address
-      type: contact_with_text
+  methods_col1: []
   methods_col2:
     - icon: fa-phone
       text: (705) 450-0678
