@@ -2,10 +2,7 @@
 title: home
 banner:
   actions: []
-  subtitle: |-
-    ![]()
-
-    We are here to click your life journey
+  subtitle: We are here to click your life journey
   title: Pic Click Studio
 sections:
   - component: features.html
