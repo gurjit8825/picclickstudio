@@ -15,7 +15,7 @@ menu:
     weight: 4
   main:
     name: Vision
-    weight: 5
+    weight: 2
 layout: page
 ---
 We are going to visualize your life moments in more artistic sense by focussing more on indoor natural backgrounds under single roof.
