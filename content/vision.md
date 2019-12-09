@@ -11,6 +11,9 @@ sidebar:
   side: left
 menu:
   layouts:
+    name: ''
+    weight: 4
+  main:
     name: Vision
     weight: 5
 layout: page
