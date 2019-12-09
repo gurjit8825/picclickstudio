@@ -6,6 +6,10 @@ content_img:
 sidebar:
   enabled: false
   side: left
+menu:
+  main:
+    name: Strategy
+    weight: 5
 layout: page
 ---
 Our Strategic Approach
