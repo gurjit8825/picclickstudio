@@ -6,7 +6,7 @@ excerpt: >-
   etiam sed magna adipiscing.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/banner.png
   url: '#'
 alt_img: images/pic01.jpg
 sidebar:
