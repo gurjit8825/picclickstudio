@@ -9,7 +9,7 @@ sidebar:
 menu:
   main:
     name: Strategy
-    weight: 3
+    weight: 4
 layout: page
 ---
 Our Strategic Approach
