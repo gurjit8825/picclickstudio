@@ -12,7 +12,7 @@ sidebar:
 menu:
   layouts:
     name: ''
-    weight: 2
+    weight: 4
   main:
     name: Vision
     weight: 5
