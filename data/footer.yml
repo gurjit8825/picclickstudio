@@ -4,7 +4,7 @@ about:
   text: We are providing our address and email to you for any detail!
   title: How to Contact with Us
 contact_methods:
-  enabled: true
+  enabled: false
   methods_col1: []
   methods_col2: []
 copyright:
